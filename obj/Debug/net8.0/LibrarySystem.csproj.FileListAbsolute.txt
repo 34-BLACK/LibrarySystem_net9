@@ -1,0 +1,15 @@
+C:\Users\asus\Downloads\LibrarySystem_net9\bin\Debug\net8.0\LibrarySystem.exe
+C:\Users\asus\Downloads\LibrarySystem_net9\bin\Debug\net8.0\LibrarySystem.deps.json
+C:\Users\asus\Downloads\LibrarySystem_net9\bin\Debug\net8.0\LibrarySystem.runtimeconfig.json
+C:\Users\asus\Downloads\LibrarySystem_net9\bin\Debug\net8.0\LibrarySystem.dll
+C:\Users\asus\Downloads\LibrarySystem_net9\bin\Debug\net8.0\LibrarySystem.pdb
+C:\Users\asus\Downloads\LibrarySystem_net9\obj\Debug\net8.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Downloads\LibrarySystem_net9\obj\Debug\net8.0\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\LibrarySystem_net9\obj\Debug\net8.0\LibrarySystem.AssemblyInfo.cs
+C:\Users\asus\Downloads\LibrarySystem_net9\obj\Debug\net8.0\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\LibrarySystem_net9\obj\Debug\net8.0\LibrarySystem.dll
+C:\Users\asus\Downloads\LibrarySystem_net9\obj\Debug\net8.0\refint\LibrarySystem.dll
+C:\Users\asus\Downloads\LibrarySystem_net9\obj\Debug\net8.0\LibrarySystem.pdb
+C:\Users\asus\Downloads\LibrarySystem_net9\obj\Debug\net8.0\LibrarySystem.genruntimeconfig.cache
+C:\Users\asus\Downloads\LibrarySystem_net9\obj\Debug\net8.0\ref\LibrarySystem.dll
+C:\Users\asus\Downloads\LibrarySystem_net9\obj\Debug\net8.0\LibrarySystem.sourcelink.json

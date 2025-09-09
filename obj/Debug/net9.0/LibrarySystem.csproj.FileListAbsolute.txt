@@ -1,0 +1,4 @@
+C:\Users\asus\Downloads\LibrarySystem_net9\obj\Debug\net9.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Downloads\LibrarySystem_net9\obj\Debug\net9.0\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\LibrarySystem_net9\obj\Debug\net9.0\LibrarySystem.AssemblyInfo.cs
+C:\Users\asus\Downloads\LibrarySystem_net9\obj\Debug\net9.0\LibrarySystem.csproj.CoreCompileInputs.cache
